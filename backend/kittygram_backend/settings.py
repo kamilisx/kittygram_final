@@ -1,4 +1,4 @@
-# flake8: no
+# flake8: n
 import os
 from pathlib import Path
 
