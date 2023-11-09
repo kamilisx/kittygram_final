@@ -7,7 +7,7 @@ git clone https://github.com/yandex-praktikum/kittygram_backend.git
 ```
 
 ```
-cd kittygram_backend
+cd kittygram_backen
 ```
 
 Cоздать и активировать виртуальное окружение:
