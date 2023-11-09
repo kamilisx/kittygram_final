@@ -1,4 +1,3 @@
-# flake8: 
 import os
 from pathlib import Path
 
